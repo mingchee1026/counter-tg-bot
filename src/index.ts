@@ -5,7 +5,7 @@ import { MainContext } from "./context";
 import initialSession from "./session";
 
 const bot = new Bot<MainContext>(
-  "7499028459:AAE6i4ie6qKOPGtwQTI3Q31GYTLnCAHAcwy"
+  "7499028459:AAE6i4ie6qKOPGtwQTI3Q31GYTLnCAHAcWY"
 );
 
 let number = 0;
